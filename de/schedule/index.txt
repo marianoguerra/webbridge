@@ -1,0 +1,8 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2017/02/15 19:18:01
+.. title: Schedule
+.. slug: schedule
+
+The schedule for the first WebBridge event is still being defined.

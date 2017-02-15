@@ -1,0 +1,13 @@
+.. title: Hello World!
+.. slug: hello-world
+.. date: 2017-02-15 17:36:38 UTC
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Welcome to WebBridge Stuttgart, we are setting up this website and our twitter
+account, expect some more new shortly.
+
+Feel free to check the rest of the site and follow use on twitter: `@WebBridgeStg <https://twitter.com/WebBridgeStg>`_

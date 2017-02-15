@@ -1,0 +1,25 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2017/02/15 19:17:44
+.. title: WebBrige Stuttgart
+.. slug: index
+
+.. sidebar:: News
+
+   .. raw:: html
+      
+      <a class="twitter-timeline" href="https://twitter.com/WebBridgeStg">Tweets by WebBridgeStg</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+WebBridge is a free event in Stuttgart, Germany to teach beginners about
+programming and web technologies.
+
+The event doesn't require any previous experience with programming.
+
+The first event is being organized, please `contact <contact>`_ us if you want
+to help.
+
+When and Where?
+---------------
+
+Location to be defined [`more details </location/>`_]

@@ -1,0 +1,24 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2017/02/15 19:18:07
+.. title: Location
+.. slug: location
+
+    
+
+The location for the first WebBridge event is still being defined.
+
+
+.. admonition:: TODO
+
+    * Add address
+    * Update map
+    * How to get there using public transportation
+    * How to get there by car
+    * Parking availability
+    * A reminder of the rough schedule (start/finish/breaks)
+
+.. raw:: html
+
+   <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2629.2963410226675!2d9.170736315231764!3d48.77623251444278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799db49ccecd855%3A0x1d8228d7b4af355e!2sRoteb%C3%BChlplatz+Stadtmitte!5e0!3m2!1sde!2sde!4v1487180587951" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
