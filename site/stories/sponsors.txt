@@ -1,0 +1,8 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2017/02/15 19:18:12
+.. title: Sponsors
+.. slug: sponsors
+
+No sponsors yet, would you like to be one? `contact us <../contact>`_
