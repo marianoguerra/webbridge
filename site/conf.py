@@ -98,3 +98,5 @@ GLOBAL_CONTEXT = {}
 
 # For more information on options that you can use in this file, see
 # https://getnikola.com/conf.html
+
+COMMENT_SYSTEM = ""
