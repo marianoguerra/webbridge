@@ -1,6 +1,6 @@
 
 .PHONY: build
-build:
+build: clean
 	cd site && nikola build && mv output/* ..
 
 clean:
